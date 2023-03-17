@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Tone {
+public enum Tone {
+    DARK,
+    MEDIUM,
+    LIGHT,
+    VERY_LIGHT,
 }

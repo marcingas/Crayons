@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public enum Color {
+public enum Color {
+    BLUE,
+    GREEN,
+    RED,
+    YELLOW,
+    GRAY,
+    BROWN,
+
+
 }
